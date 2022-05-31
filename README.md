@@ -7,9 +7,6 @@ This app is a part of project for DATA3888 2022 in the University of Sydney.
 Run the app locally in Rstudio on laptop by
 
 ```
-library(tidyverse)
-library(ggthemes)
-library(plotly)
 library(shiny)
 shiny::runGitHub(
   repo = "ReefP3-Shiny-App", 
