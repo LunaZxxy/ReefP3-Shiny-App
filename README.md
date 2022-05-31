@@ -2,7 +2,9 @@
 ## GBR reef visualisation shiny app
 
 This app is a part of project for DATA3888 2022 in the University of Sydney.
-Check video 'demo' to the functionality of our shiny app.
+
+
+Check video 'demo.mp4' to see the functionality of our shiny app.
 
 
 Run the app locally in Rstudio by
